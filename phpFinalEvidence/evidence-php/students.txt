@@ -1,6 +1,0 @@
-101,Md Karim Mia,45
-102,Md Rahim Mia,47
-103,Md Salam,48
-104,Md Jamal,49
-105,Md Jalal,53
-106,Md Mohim,54
